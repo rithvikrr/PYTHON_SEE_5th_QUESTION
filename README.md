@@ -3,6 +3,7 @@ Program is given in debug_exam.py and Instructions are given in ReadMe file.
 # Fork the repository and commit the changes.
 # Answers should be given for all three questions here.
 #My nane is Rithvik Rangaraj and USN is ENG19CS0256
+
 def uniqueUpdate(data1, data2):
     # Initially empty dictionary
     dupKeys = {}
